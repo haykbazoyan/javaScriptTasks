@@ -1,5 +1,7 @@
 // Working with variables
 
-let name = "John";
-const admin = name;
+let name;
+let admin;
+name = "John";
+admin = name;
 console.log(admin);
